@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there 👋<br>I'm Nick! A Software Developer from Canada!<br><br>I'm always experimenting with new technologies to grow my skills!<br>Always trying to find something new and unique to research and learn about!
+Hi there 👋<br>I'm Nick, a Software Developer from Canada.<br><br>I'm always experimenting with new technologies to grow my skills.<br>Always trying to find something new and unique to research and learn about.
 
-- 🔭 I’m currently working on Bungo's Collection, a handful of Paper MC plugins adding Modded game features to Vanilla Minecraft!
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🔭 I’m currently working on Some small Neural Network projects to gain information on how reinforcement learning is handled.
+- 🌱 I’m currently learning about **Neural Network Design**
 - ⚡ Fun fact: Minecraft is what first got me into Software!
 - 👨‍💻 All of my projects are available at [my website](https://bungo.ca)
 
