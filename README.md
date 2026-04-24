@@ -19,7 +19,7 @@ Hi there 👋<br>I'm Nick, a Software Developer from Canada.<br><br>I'm always e
 - 🔭 I’m currently working on Some small Neural Network projects to gain information on how reinforcement learning is handled.
 - 🌱 I’m currently learning about **Neural Network Design**
 - ⚡ Fun fact: Minecraft is what first got me into Software!
-- 👨‍💻 All of my projects are available at [my website](https://bungo.ca)
+- 👨‍💻 All of my projects are available at [my website](https://nbarudi.ca)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-barudi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itssbungo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bungo8179) 
